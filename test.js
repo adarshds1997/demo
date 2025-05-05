@@ -76,7 +76,7 @@ console.log(fruits);
 
 
 /*pet array*/
-/*
+
 let pets = ["cat","dog"];
 let index = pets.indexOf("rabbit");
 if (index === -1){
@@ -88,14 +88,14 @@ if(index1 !== -1){
     pets.splice(index1,1);
 }
 console.log(pets);
-*/
+
 
 
 
 
 
 /*shop array*/ 
-/*
+
 let shop = ["pen","pencil","eraser","scale"];
 console.log(shop);
 shop.shift();
@@ -119,4 +119,3 @@ if (index2 === -1){
 console.log(shop);
 shop.pop();
 console.log(shop);
-*/
